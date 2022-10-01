@@ -4,6 +4,29 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="GarageDoorApp.app" target="11" />
+      <module name="GarageDoorApp.cloudsdk" target="11" />
+      <module name="GarageDoorApp.commonui" target="11" />
+      <module name="GarageDoorApp.devicesetup" target="11" />
+      <module name="GarageDoorApp.ecjpake4j" target="11" />
+      <module name="GarageDoorApp.firmwareprotos" target="11" />
+      <module name="GarageDoorApp.mesh" target="11" />
+      <module name="GarageDoorApp.meshui" target="11" />
+      <module name="GarageDoorApp.sdk_example_app" target="11" />
+      <module name="GarageDoorApp.setup_exampleapp" target="11" />
+      <module name="GarageDoorApp.setup_testapp" target="11" />
+      <module name="TinkerApp.app" target="11" />
+      <module name="TinkerApp.cloudsdk" target="11" />
+      <module name="TinkerApp.commonui" target="11" />
+      <module name="TinkerApp.devicesetup" target="11" />
+      <module name="TinkerApp.ecjpake4j" target="11" />
+      <module name="TinkerApp.firmwareprotos" target="11" />
+      <module name="TinkerApp.mesh" target="11" />
+      <module name="TinkerApp.meshui" target="11" />
+      <module name="TinkerApp.sdk_example_app" target="11" />
+      <module name="TinkerApp.setup_exampleapp" target="11" />
+      <module name="TinkerApp.setup_testapp" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

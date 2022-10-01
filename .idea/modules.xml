@@ -2,20 +2,51 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/photon-tinker-android.iml" filepath="$PROJECT_DIR$/photon-tinker-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/photon-tinker-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/photon-tinker-android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudsdk/photon-tinker-android.cloudsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudsdk/photon-tinker-android.cloudsdk.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/photon-tinker-android.commonui.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/photon-tinker-android.commonui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devicesetup/photon-tinker-android.devicesetup.iml" filepath="$PROJECT_DIR$/.idea/modules/devicesetup/photon-tinker-android.devicesetup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecjpake4j/photon-tinker-android.ecjpake4j.iml" filepath="$PROJECT_DIR$/.idea/modules/ecjpake4j/photon-tinker-android.ecjpake4j.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firmwareprotos/photon-tinker-android.firmwareprotos.iml" filepath="$PROJECT_DIR$/.idea/modules/firmwareprotos/photon-tinker-android.firmwareprotos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mesh/photon-tinker-android.mesh.iml" filepath="$PROJECT_DIR$/.idea/modules/mesh/photon-tinker-android.mesh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meshui/photon-tinker-android.meshui.iml" filepath="$PROJECT_DIR$/.idea/modules/meshui/photon-tinker-android.meshui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk_example_app/photon-tinker-android.sdk_example_app.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk_example_app/photon-tinker-android.sdk_example_app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_exampleapp/photon-tinker-android.setup_exampleapp.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_exampleapp/photon-tinker-android.setup_exampleapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_testapp/photon-tinker-android.setup_testapp.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_testapp/photon-tinker-android.setup_testapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/setup_exampleapp/setup_exampleapp.iml" filepath="$PROJECT_DIR$/setup_exampleapp/setup_exampleapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/setup_testapp/setup_testapp.iml" filepath="$PROJECT_DIR$/setup_testapp/setup_testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GarageDoorApp.iml" filepath="$PROJECT_DIR$/.idea/modules/GarageDoorApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GarageDoorApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudsdk/GarageDoorApp.cloudsdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/GarageDoorApp.commonui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.iml" filepath="$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.main.iml" filepath="$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/devicesetup/GarageDoorApp.devicesetup.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.iml" filepath="$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ecjpake4j/GarageDoorApp.ecjpake4j.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.iml" filepath="$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/firmwareprotos/GarageDoorApp.firmwareprotos.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.iml" filepath="$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mesh/GarageDoorApp.mesh.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.iml" filepath="$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/meshui/GarageDoorApp.meshui.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk_example_app/GarageDoorApp.sdk_example_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_exampleapp/GarageDoorApp.setup_exampleapp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_testapp/GarageDoorApp.setup_testapp.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -18,6 +18,8 @@ import io.particle.android.sdk.cloud.exceptions.ParticleCloudException;
 import io.particle.android.sdk.utils.Async;
 import io.particle.android.sdk.utils.Toaster;
 
+
+
 public class LoginActivity extends AppCompatActivity {
 
     @Override
@@ -28,6 +30,9 @@ public class LoginActivity extends AppCompatActivity {
 
         findViewById(R.id.login_button).setOnClickListener(
                 v -> {
+//                    @JK Add credentials here! Uncomment example lines.
+//                    final String email = "email@live.com";
+//                    final String password = "yourpassword";
                     final String email = ((EditText) findViewById(R.id.email)).getText().toString();
                     final String password = ((EditText) findViewById(R.id.password)).getText().toString();
 
@@ -72,36 +77,36 @@ public class LoginActivity extends AppCompatActivity {
                             } catch (IndexOutOfBoundsException iobEx) {
                                 throw new RuntimeException("Your account must have at least one device for this example app to work");
                             }
+//
+//                            Object obj;
+//
+//                            try {
+//                                obj = mDevice.getVariable("openDistance");
+//                                Log.d("BANANA", "openDistance: " + obj);
+//                            } catch (ParticleDevice.VariableDoesNotExistException e) {
+//                                Toaster.s(LoginActivity.this, "Error reading variable");
+//                            }
 
-                            Object obj;
-
-                            try {
-                                obj = mDevice.getVariable("analogvalue");
-                                Log.d("BANANA", "analogvalue: " + obj);
-                            } catch (ParticleDevice.VariableDoesNotExistException e) {
-                                Toaster.s(LoginActivity.this, "Error reading variable");
-                            }
-
-                            try {
-                                String strVariable = mDevice.getStringVariable("stringvalue");
-                                Log.d("BANANA", "stringvalue: " + strVariable);
-                            } catch (ParticleDevice.VariableDoesNotExistException e) {
-                                Toaster.s(LoginActivity.this, "Error reading variable");
-                            }
-
-                            try {
-                                double dVariable = mDevice.getDoubleVariable("doublevalue");
-                                Log.d("BANANA", "doublevalue: " + dVariable);
-                            } catch (ParticleDevice.VariableDoesNotExistException e) {
-                                Toaster.s(LoginActivity.this, "Error reading variable");
-                            }
-
-                            try {
-                                int intVariable = mDevice.getIntVariable("analogvalue");
-                                Log.d("BANANA", "int analogvalue: " + intVariable);
-                            } catch (ParticleDevice.VariableDoesNotExistException e) {
-                                Toaster.s(LoginActivity.this, "Error reading variable");
-                            }
+//                            try {
+//                                String strVariable = mDevice.getStringVariable("stringvalue");
+//                                Log.d("BANANA", "stringvalue: " + strVariable);
+//                            } catch (ParticleDevice.VariableDoesNotExistException e) {
+//                                Toaster.s(LoginActivity.this, "Error reading variable");
+//                            }
+//
+//                            try {
+//                                double dVariable = mDevice.getDoubleVariable("doublevalue");
+//                                Log.d("BANANA", "doublevalue: " + dVariable);
+//                            } catch (ParticleDevice.VariableDoesNotExistException e) {
+//                                Toaster.s(LoginActivity.this, "Error reading variable");
+//                            }
+//
+//                            try {
+//                                int intVariable = mDevice.getIntVariable("analogvalue");
+//                                Log.d("BANANA", "int analogvalue: " + intVariable);
+//                            } catch (ParticleDevice.VariableDoesNotExistException e) {
+//                                Toaster.s(LoginActivity.this, "Error reading variable");
+//                            }
 
                             return -1;
 
